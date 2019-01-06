@@ -8,6 +8,6 @@ public class MainL9 {
         //Synch s = new Synch();
         //PC pc = new PC();
         //new DeadLock();
-        //new SuspendResume();
+        new SuspendResume();
     }
 }
