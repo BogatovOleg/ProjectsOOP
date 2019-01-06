@@ -1,6 +1,6 @@
 package lab6;
 
-public class Main {
+public class MainL6 {
 
     public static void main(String[] args) {
 
